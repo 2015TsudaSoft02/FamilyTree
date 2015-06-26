@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">FramilyTree</string>
+    <string name="hello">こんにちは！\n情報を入力してください！\n</string>
+    <string name="fname">\n苗字:\n</string>
+    <string name="name">\n氏名:\n</string>
+    <string name="parent">\n両親:\n</string>
+    <string name="number">\n第何子:\n</string>
+    <string name="birth">\n生年月日:\n</string>
+    <string name="edit_message">\nEnter a message\n</string>
+    <string name="edit_message1">\nEnter a message\n</string>
+    <string name="edit_message2">\nEnter a message\n</string>
+    <string name="edit_message3">\nEnter a message\n</string>
+    <string name="edit_message4">\n年\n</string>
+    <string name="edit_message5">\n月\n</string>
+    <string name="edit_message6">\n日\n</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_send">\nSend\n</string>
+</resources>
